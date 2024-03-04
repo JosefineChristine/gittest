@@ -6,6 +6,7 @@ public class git {
 
         System.out.println("..?????");
         System.out.println("niinu");
+        System.out.println("linje 2");
 
         System.out.println("gbilsdbkls");
         System.out.println("sbgåååågkpre");
