@@ -7,6 +7,9 @@ public class git {
         System.out.println("niinu");
         System.out.println("gnruhgosipgs");
 
+        System.out.println("gbilsdbkls");
+        System.out.println("sbgåååågkpre");
+
         System.out.println("Whhhh");
         System.out.println("hkdl");
 
