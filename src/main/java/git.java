@@ -8,5 +8,7 @@ public class git {
         System.out.println("gnru");
 
         System.out.println("Whhhh");
+        System.out.println("ny linje josefine");
+        System.out.println("ny linje 2");
     }
 }
