@@ -12,6 +12,7 @@ public class git {
         System.out.println("sbgåååågkpre");
 
         System.out.println("Whhhh");
+        System.out.println("linjw 3");
         System.out.println("hkdl");
 
 
