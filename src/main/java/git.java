@@ -6,5 +6,6 @@ public class git {
         System.out.println("....");
 
         System.out.println("Whhhh");
+        System.out.println("ny linje josefine");
     }
 }
