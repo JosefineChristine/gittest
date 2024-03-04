@@ -3,9 +3,9 @@ public class git {
         System.out.println("Hej");
         System.out.println("Hej hiosdhnb igen");
 
-        System.out.println("....");
+        System.out.println("..?????");
         System.out.println("niinu");
-        System.out.println("gnruhgosipgs");
+
 
         System.out.println("gbilsdbkls");
         System.out.println("sbgåååågkpre");
