@@ -5,6 +5,7 @@ public class git {
 
         System.out.println("....");
         System.out.println("niinu");
+        System.out.println("gnru");
 
         System.out.println("Whhhh");
     }
